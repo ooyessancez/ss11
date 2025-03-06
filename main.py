@@ -1,3 +1,4 @@
+clean
 import subprocess
 import sys
 
